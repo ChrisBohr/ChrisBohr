@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChrisBohr
 - 👀 I’m interested in the cybersecurity industry as well as data analysis practices
-- 🌱 I’m currently learning SQL, tableau, Java
+- 🌱 I’m currently learning SQL, Tableau, Java
 - 📫 How to reach me: chrisgbohr@gmail.com or @ChrisBohr on LinkedIn
 
 <!---
